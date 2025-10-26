@@ -54,9 +54,9 @@ I am a **Data Scientist** with experience in **data analysis, statistical modeli
 
 ## 📫 Contact Me
 - ✉️ Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/chea-rotha-44268b2a5/)  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 🐦 Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)  
+- 🐦 Twitter: [twitter.com/yourprofile](https://x.com/CheaRothaX207)  
 
 ---
 
