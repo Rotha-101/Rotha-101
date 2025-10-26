@@ -42,41 +42,21 @@ I am a **Data Scientist** passionate about transforming complex datasets into ac
 - Visualized trends and patterns for stakeholders 🌈  
 
 ---
-
 ## 🛠 Data Science Tools & Technologies
 
-### **Programming & Scripting Languages**
-- Python 🐍, R 📊, SQL 🗄️, Julia ⚛️, Scala 🟣, Bash/Unix 🖥️  
-
-### **Data Manipulation & Analysis**
-- Pandas 🐼, NumPy 🔢, Dplyr, Data.table, Excel 📑, Google Sheets 🟢  
-
-### **Machine Learning & AI**
-- Scikit-learn 🤖, XGBoost ⚡, LightGBM 💡, CatBoost 🐱, Statsmodels 📈, SVR 🔺, ARIMA/SARIMA 📅  
-
-### **Deep Learning & Generative AI**
-- TensorFlow 🔷, Keras ❤️, PyTorch 🔥, FastAI 🐦, HuggingFace Transformers ⚡, GANs 🎨, VAEs 🌀  
-
-### **Computer Vision**
-- OpenCV 🖼️, PIL/Pillow 🖌️, YOLO 🔫, Detectron2 🦾, MediaPipe 🤳  
-
-### **Data Visualization**
-- Matplotlib 📉, Seaborn 🌈, Plotly 📊, Altair ⚡, Bokeh 🔹, Tableau 📊, Power BI 🖥️  
-
-### **Big Data & Cloud**
-- Hadoop ☁️, Spark ⚡, AWS (S3, SageMaker) ☁️, GCP (BigQuery, AI Platform) 🌐, Azure ML 💠  
-
-### **Databases**
-- MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃, SQLite 🗄️, Oracle 🏛️  
-
-### **Version Control & Collaboration**
-- Git 🔗, GitHub 🐙, GitLab 🦊, Bitbucket 🏹  
-
-### **Workflow & Notebook Tools**
-- Jupyter Notebook 📓, JupyterLab 🖊️, VS Code 💻, PyCharm 🐱, RStudio 📊  
-
-### **Others / Utilities**
-- Docker 🐳, Kubernetes ☸️, Airflow ⏱️, MLflow 🔄, Streamlit 🌊, Flask 🌐, FastAPI ⚡  
+| **Category**                | **Tools & Technologies** |
+|-----------------------------|-------------------------|
+| 🖥 **Programming & Scripting** | Python 🐍, R 📊, SQL 🗄️, Julia ⚛️, Scala 🟣, Bash/Unix 🖥️ |
+| 📊 **Data Manipulation & Analysis** | Pandas 🐼, NumPy 🔢, Dplyr, Data.table, Excel 📑, Google Sheets 🟢 |
+| 🤖 **Machine Learning & AI** | Scikit-learn 🤖, XGBoost ⚡, LightGBM 💡, CatBoost 🐱, Statsmodels 📈, SVR 🔺, ARIMA/SARIMA 📅 |
+| 🧠 **Deep Learning & Generative AI** | TensorFlow 🔷, Keras ❤️, PyTorch 🔥, FastAI 🐦, HuggingFace Transformers ⚡, GANs 🎨, VAEs 🌀 |
+| 🖼️ **Computer Vision** | OpenCV 🖼️, PIL/Pillow 🖌️, YOLO 🔫, Detectron2 🦾, MediaPipe 🤳 |
+| 📊 **Data Visualization** | Matplotlib 📉, Seaborn 🌈, Plotly 📊, Altair ⚡, Bokeh 🔹, Tableau 📊, Power BI 🖥️ |
+| ☁️ **Big Data & Cloud** | Hadoop ☁️, Spark ⚡, AWS (S3, SageMaker) ☁️, GCP (BigQuery, AI Platform) 🌐, Azure ML 💠 |
+| 🗄️ **Databases** | MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃, SQLite 🗄️, Oracle 🏛️ |
+| 🔗 **Version Control & Collaboration** | Git 🔗, GitHub 🐙, GitLab 🦊, Bitbucket 🏹 |
+| 📝 **Workflow & Notebook Tools** | Jupyter Notebook 📓, JupyterLab 🖊️, VS Code 💻, PyCharm 🐱, RStudio 📊 |
+| 🛠 **Other Tools / Utilities** | Docker 🐳, Kubernetes ☸️, Airflow ⏱️, MLflow 🔄, Streamlit 🌊, Flask 🌐, FastAPI ⚡ |
 
 ---
 
