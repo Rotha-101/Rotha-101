@@ -61,10 +61,6 @@ I am a **Data Scientist** passionate about transforming complex datasets into ac
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 🐦 Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)  
 
 ---
 
