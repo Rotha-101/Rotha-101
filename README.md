@@ -67,6 +67,172 @@
 
 ---
 
+## 📈 Skill Proficiency Snapshot
+
+> Self-assessed proficiency based on production usage across real-world projects.
+
+<div align="center">
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--        CORE LANGUAGE PROFICIENCY — visual progress bars            -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+| Skill | Proficiency | Level |
+|---|---|---|
+| 🐍 Python | `████████████████████` 95% | Expert |
+| 📊 SQL | `██████████████████░░` 88% | Advanced |
+| 📓 Jupyter Notebook | `████████████████████` 96% | Expert |
+| 📐 R | `████████████████░░░░` 78% | Advanced |
+| 🌐 HTML / CSS | `██████████████░░░░░░` 72% | Intermediate |
+| ☕ Java | `████████████░░░░░░░░` 60% | Intermediate |
+| 🎮 C# | `██████████░░░░░░░░░░` 52% | Intermediate |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--         ML / AI DOMAIN PROFICIENCY                                 -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+| Domain | Proficiency | Level |
+|---|---|---|
+| ⚡ Time Series & Forecasting | `████████████████████` 93% | Expert |
+| 🤖 Machine Learning (Classical) | `██████████████████░░` 90% | Expert |
+| 🧠 Deep Learning (LSTM / TF) | `████████████████░░░░` 80% | Advanced |
+| 📉 Anomaly Detection | `████████████████░░░░` 82% | Advanced |
+| 💬 NLP & Fine-Tuning | `██████████████░░░░░░` 70% | Intermediate |
+| 📊 Data Visualization | `███████████████████░` 92% | Expert |
+| 🗄️ Database Design & SQL | `██████████████████░░` 88% | Advanced |
+| 🔋 EMS / SCADA Analytics | `████████████████░░░░` 80% | Advanced |
+
+</div>
+
+---
+
+## 🧩 Coding Habits & Work Style
+
+<div align="center">
+
+<!-- ─────────── Coding activity by domain ─────────── -->
+
+| Area | Tools | Focus |
+|---|---|---|
+| 🔬 Research & Experiments | Jupyter Notebook · Google Colab | EDA, model prototyping, thesis work |
+| 🏭 Production Pipelines | Python · Docker · PostgreSQL | Data ingestion, transformation, ETL |
+| 📊 Dashboards & Reports | Power BI · Plotly · Data Studio | Business insights, automated reporting |
+| 🔋 Energy Data Systems | Python · EMS/SCADA · Pandas | Real-time grid analytics, SOC monitoring |
+| 🗣️ NLP Experiments | Hugging Face · SpaCy · LoRA | Tokenization, fine-tuning, Khmer NLP |
+| 🎓 Teaching & Mentoring | Python · Power BI · Slides | Curriculum design, student projects |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- ─────────── Work style badges ─────────── -->
+
+![Methodology](https://img.shields.io/badge/Methodology-Agile_%2F_Iterative-58A6FF?style=flat-square&logo=jira&logoColor=white)
+![Approach](https://img.shields.io/badge/Approach-Data--Driven-FF9500?style=flat-square&logo=databricks&logoColor=white)
+![Mindset](https://img.shields.io/badge/Mindset-End--to--End_Builder-2ea44f?style=flat-square&logo=githubactions&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-AI_%2B_Energy_%2B_Economics-8957e5?style=flat-square&logo=lightning&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Key Highlights at a Glance
+
+<div align="center">
+
+<table border="0" cellpadding="10" cellspacing="8">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔋_BESS_Engineer-Dec_2025_→_Now-0d1117?style=for-the-badge&labelColor=FF9500&color=0d1117" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📈_Ministry_Data_Scientist-2025-0d1117?style=for-the-badge&labelColor=58A6FF&color=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎓_ITC_Engineering_Degree-Applied_Maths_%26_Stats-0d1117?style=for-the-badge&labelColor=2ea44f&color=0d1117" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏫_Instructor-Data_Science_%40_Sunrise-0d1117?style=for-the-badge&labelColor=8957e5&color=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🧠_Hybrid_ML_Model-XGBoost_%2B_LSTM_%2B_SARIMAX-0d1117?style=for-the-badge&labelColor=EA4335&color=0d1117" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📍_Based_In-Phnom_Penh,_Cambodia-0d1117?style=for-the-badge&labelColor=CE1126&color=0d1117" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🗓️ My GitHub Journey
+
+```text
+Mar 2023  ──●  First commit — started exploring data science on GitHub
+Apr 2023  ──●  Uploaded early EDA notebooks on tourism & agriculture data
+Jun 2023  ──●  Published Laptop Price Prediction project (SVR winner!)
+Sep 2023  ──●  Hotel Reservation DB — first SQL schema design on GitHub
+Jan 2024  ──●  Joined Sunrise Institute — started teaching & documenting
+Mar 2024  ──●  Crop Yield Prediction — XGBoost + Random Forest pipeline
+Jul 2024  ──●  Cambodia Tourism Forecasting — ARIMA / SARIMA / Prophet
+Oct 2024  ──●  Deep dive into NLP — tokenization & Khmer language corpus
+Feb 2025  ──●  Ministry of Planning — Inflation Forecasting Thesis begins
+Apr 2025  ──●  Hybrid ML deployed: XGBoost + LSTM + SARIMAX live
+Dec 2025  ──●  SchniecTech — EMS/SCADA real-time data engineering begins
+Apr 2026  ──◉  Today — actively building, learning, and contributing 🚀
+```
+
+---
+
+## 🔧 Tools & Environments I Love
+
+<div align="center">
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+| Language | Level | Context |
+|---|---|---|
+| 🇰🇭 Khmer | Native | Mother tongue |
+| 🇬🇧 English | Professional | Academic, work, research writing |
+| 🇫🇷 French | Basic | Aii Language Center (2019–2022) |
+
+</div>
+
+---
+
 ## 💼 Professional Experience
 
 ### 🔋 Battery Energy Storage System Engineer & Data Analyst — *SchniecTech Group*
@@ -153,33 +319,90 @@
 
 <div align="center">
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=73+Commits+Last+Year+%F0%9F%9A%80;139+Total+Contributions+%F0%9F%93%88;Jupyter+Notebook+96%25+%7C+Python+%7C+HTML;Building+real-world+ML+systems+daily+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=560&lines=⚡+94+Commits+%7C+139+Total+Contributions+%7C+Since+Mar+2023;🧠+Jupyter+Notebook+96%25+%7C+HTML+2%25+%7C+Python+%7C+TypeScript;🚀+Building+end-to-end+ML+systems+every+single+day)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<!-- Stats + Languages side by side -->
-<table>
+<!--  ╔══════════════════════════════════════════╗  -->
+<!--  ║        ROW 1 — Stats + Languages         ║  -->
+<!--  ╚══════════════════════════════════════════╝  -->
+
+<div align="center">
+<table border="0" cellpadding="6" cellspacing="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rotha-101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+    <td align="center" valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Rotha-101&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=CHEA+Rotha+%E2%80%94+GitHub+Stats&title_color=58A6FF&icon_color=FF9500&text_color=c9d1d9&bg_color=0d1117"
+        height="195"
+        alt="GitHub Stats"
+      />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotha-101&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    <td align="center" valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotha-101&layout=donut-vertical&theme=github_dark&hide_border=false&border_color=30363d&border_radius=12&langs_count=6&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"
+        height="195"
+        alt="Most Used Languages"
+      />
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
-<!-- Full-width streak -->
-<img src="https://streak-stats.demolab.com?user=Rotha-101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF" alt="GitHub Streak" width="70%" />
+<!--  ╔══════════════════════════════════════════╗  -->
+<!--  ║        ROW 2 — Streak (full width)       ║  -->
+<!--  ╚══════════════════════════════════════════╝  -->
 
-<br/><br/>
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Rotha-101&theme=github-dark-blue&hide_border=false&border=30363d&border_radius=12&background=0d1117&stroke=30363d&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"
+    width="72%"
+    alt="GitHub Streak"
+  />
+</div>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rotha-101&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FF9500" alt="Contribution Graph" width="90%" />
+<br/>
 
+<!--  ╔══════════════════════════════════════════╗  -->
+<!--  ║     ROW 3 — Contribution activity graph  ║  -->
+<!--  ╚══════════════════════════════════════════╝  -->
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rotha-101&theme=github-compact&hide_border=false&border_color=30363d&radius=8&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=FF9500&bg_color=0d1117&title_color=58A6FF"
+    width="92%"
+    alt="Contribution Activity Graph"
+  />
+</div>
+
+<br/>
+
+<!--  ╔═══════════════════════════════════════════════╗  -->
+<!--  ║   ROW 4 — WakaTime / Trophies side by side   ║  -->
+<!--  ╚═══════════════════════════════════════════════╝  -->
+
+<div align="center">
+<table border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=Rotha-101&theme=algolia&column=4&margin-w=8&margin-h=8&no-frame=true&title=Commits,Stars,Repositories,Issues"
+        alt="GitHub Trophies"
+        width="420"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Rotha-101&repo=Rotha-101&theme=github_dark&hide_border=false&border_color=30363d&border_radius=12&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=FF9500&show_owner=false"
+        alt="Pinned Repo"
+        width="340"
+      />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -199,41 +422,81 @@
 
 <div align="center">
 
-<!-- Animated typing contact header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=58A6FF&center=true&vCenter=true&width=460&lines=Open+to+collaborations+%F0%9F%A4%9D;Available+for+Data+Science+roles+%F0%9F%93%8A;Let%27s+connect+and+build+something+great!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=500&lines=🤝+Open+to+collaborations+%26+research+projects;📊+Available+for+Data+Science+%26+ML+Engineer+roles;🌏+Based+in+Phnom+Penh+—+working+globally;💬+Let%27s+connect+and+build+something+impactful!)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Contact badges row 1 -->
-[![Gmail](https://img.shields.io/badge/Gmail-chearotha.itc.edu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chearotha.itc.edu@gmail.com)
+<!--  ═══ Contact card grid ═══  -->
 
-<!-- Contact badges row 2 -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chea--rotha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chea-rotha-44268b2a5/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Rotha--101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rotha-101)
-
-<!-- Contact badges row 3 -->
-[![Phone](https://img.shields.io/badge/Phone-%2B885--97%204865%20856-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-&nbsp;&nbsp;
-[![Location](https://img.shields.io/badge/📍_Location-Phnom%20Penh%2C%20Cambodia-FF6B6B?style=for-the-badge)](#)
+<table border="0" cellpadding="0" cellspacing="0" width="560">
+  <tr>
+    <td align="center" colspan="2" style="padding-bottom:10px;">
+      <a href="mailto:chearotha.itc.edu@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-chearotha.itc.edu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:6px;">
+      <a href="https://www.linkedin.com/in/chea-rotha-44268b2a5/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://github.com/Rotha-101">
+        <img src="https://img.shields.io/badge/GitHub-Rotha--101-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:6px;">
+      <img src="https://img.shields.io/badge/WhatsApp-%2B885_97_4865_856-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </td>
+    <td align="center" style="padding:6px;">
+      <img src="https://img.shields.io/badge/📍_Location-Phnom_Penh,_Cambodia-FF6B35?style=for-the-badge&logoColor=white" alt="Location" />
+    </td>
+  </tr>
+</table>
 
 <br/>
+
+<!--  ═══ Open to work banner ═══  -->
+
+![Open to Work](https://img.shields.io/badge/STATUS-Open_to_Work-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white)
+&nbsp;
+![Response Time](https://img.shields.io/badge/Response-Within_24h-58A6FF?style=for-the-badge&logo=clockify&logoColor=white)
+
+<br/><br/>
+
+<!--  ═══ Snake contribution animation ═══  -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="contribution snake animation"
+    src="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake.svg"
+    width="85%"
+  />
+</picture>
+
+<br/><br/>
 
 ---
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-
-*"Turning complex data into decisions that matter."*
+<sub><i>"Turning complex data into decisions that matter."</i></sub>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rotha-101&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![Made with](https://img.shields.io/badge/Made_with-❤️_in_Cambodia-CE1126?style=for-the-badge)
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- Thank you for visiting my GitHub profile! Feel free to reach out.  -->
+<!-- Built with ❤️ using Markdown, shields.io, and github-readme-stats  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 </div>
