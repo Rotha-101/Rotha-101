@@ -10,6 +10,9 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chearotha.itc.edu@gmail.com)
 [![Location](https://img.shields.io/badge/Phnom%20Penh%2C%20Cambodia-009688?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
+<br/>
+<img src="cover.jpg" alt="Cover" width="100%" style="border-radius:12px; margin-top:12px;" />
+
 </div>
 
 ---
@@ -71,8 +74,6 @@
 
 <div align="center">
 
-<!-- ─────────── Coding activity by domain ─────────── -->
-
 | Area | Tools | Focus |
 |---|---|---|
 | 🔬 Research & Experiments | Jupyter Notebook · Google Colab | EDA, model prototyping, thesis work |
@@ -87,8 +88,6 @@
 <br/>
 
 <div align="center">
-
-<!-- ─────────── Work style badges ─────────── -->
 
 ![Methodology](https://img.shields.io/badge/Methodology-Agile_%2F_Iterative-58A6FF?style=flat-square&logo=jira&logoColor=white)
 ![Approach](https://img.shields.io/badge/Approach-Data--Driven-FF9500?style=flat-square&logo=databricks&logoColor=white)
@@ -289,8 +288,6 @@ Apr 2026  ──◉  Today — actively building, learning, and contributing �
 
 <br/>
 
-<!--  ═══ Contact card grid ═══  -->
-
 <table border="0" cellpadding="0" cellspacing="0" width="560">
   <tr>
     <td align="center" colspan="2" style="padding-bottom:10px;">
@@ -323,15 +320,11 @@ Apr 2026  ──◉  Today — actively building, learning, and contributing �
 
 <br/>
 
-<!--  ═══ Open to work banner ═══  -->
-
 ![Open to Work](https://img.shields.io/badge/STATUS-Open_to_Work-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white)
 &nbsp;
 ![Response Time](https://img.shields.io/badge/Response-Within_24h-58A6FF?style=for-the-badge&logo=clockify&logoColor=white)
 
 <br/><br/>
-
-<!--  ═══ Snake contribution animation ═══  -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
