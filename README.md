@@ -153,11 +153,32 @@
 
 <div align="center">
 
-![Chea Rotha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rotha-101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=73+Commits+Last+Year+%F0%9F%9A%80;139+Total+Contributions+%F0%9F%93%88;Jupyter+Notebook+96%25+%7C+Python+%7C+HTML;Building+real-world+ML+systems+daily+%E2%9A%A1)](https://git.io/typing-svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rotha-101&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rotha-101&theme=tokyonight&hide_border=true)
+<!-- Stats + Languages side by side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rotha-101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotha-101&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Full-width streak -->
+<img src="https://streak-stats.demolab.com?user=Rotha-101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF" alt="GitHub Streak" width="70%" />
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rotha-101&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FF9500" alt="Contribution Graph" width="90%" />
 
 </div>
 
@@ -178,22 +199,41 @@
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 📧 Email | [chearotha.itc.edu@gmail.com](mailto:chearotha.itc.edu@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/chea-rotha-44268b2a5](https://www.linkedin.com/in/chea-rotha-44268b2a5/) |
-| 🐙 GitHub | [github.com/Rotha-101](https://github.com/Rotha-101) |
-| 📞 Phone | +885-97 4865 856 |
-| 📍 Location | Toul Kork, Phnom Penh, Cambodia |
+<!-- Animated typing contact header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=58A6FF&center=true&vCenter=true&width=460&lines=Open+to+collaborations+%F0%9F%A4%9D;Available+for+Data+Science+roles+%F0%9F%93%8A;Let%27s+connect+and+build+something+great!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-</div>
+<br/>
+
+<!-- Contact badges row 1 -->
+[![Gmail](https://img.shields.io/badge/Gmail-chearotha.itc.edu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chearotha.itc.edu@gmail.com)
+
+<!-- Contact badges row 2 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chea--rotha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chea-rotha-44268b2a5/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Rotha--101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rotha-101)
+
+<!-- Contact badges row 3 -->
+[![Phone](https://img.shields.io/badge/Phone-%2B885--97%204865%20856-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+&nbsp;&nbsp;
+[![Location](https://img.shields.io/badge/📍_Location-Phnom%20Penh%2C%20Cambodia-FF6B6B?style=for-the-badge)](#)
+
+<br/>
 
 ---
 
-<div align="center">
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Rotha-101/Rotha-101/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
 
 *"Turning complex data into decisions that matter."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rotha-101&color=0e75b6&style=flat-square)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rotha-101&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
