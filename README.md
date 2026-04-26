@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="cover.jpg" alt="Cover" width="100%" style="border-radius:12px; margin-bottom:12px;" />
+
 # 👋 CHEA ROTHA
 ### Data Scientist · ML Engineer · AI Researcher
 
@@ -10,8 +12,6 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chearotha.itc.edu@gmail.com)
 [![Location](https://img.shields.io/badge/Phnom%20Penh%2C%20Cambodia-009688?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<br/>
-<img src="cover.jpg" alt="Cover" width="100%" style="border-radius:12px; margin-top:12px;" />
 
 </div>
 
