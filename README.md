@@ -2,7 +2,7 @@
 
 <img src="cover.jpg" alt="Cover" width="100%" style="border-radius:12px; margin-bottom:12px;" />
 
-# 👋 CHEA ROTHA
+# CHEA ROTHA
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%94%AC;ML+Engineer+%F0%9F%A4%96;AI+Researcher+%F0%9F%A7%A0;Building+AI+for+Southeast+Asia+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
